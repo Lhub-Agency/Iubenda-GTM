@@ -1,4 +1,4 @@
-# GDPR + CCPA compliance
+# GDPR + CCPA compliance with Iubenda
 This Repository will shortly describe how to implement Iubenda to be GDPR and CCPA compliant.
 
 # How to implement on the website / service
