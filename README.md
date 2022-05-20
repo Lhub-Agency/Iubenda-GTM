@@ -9,6 +9,7 @@ If you need to implement **Iubenda** you will need to:
 
 # Additional settings
 More settings are available at the following URL: 
-https://www.iubenda.com/it/help/629-google-tag-manager-blocco-cookie
+(EN) https://www.iubenda.com/en/help/629-google-tag-manager-blocco-cookie
+(IT) https://www.iubenda.com/it/help/629-google-tag-manager-blocco-cookie
 
 *More informations are avaiable in the Wiki*
