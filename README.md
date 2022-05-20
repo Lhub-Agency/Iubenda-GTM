@@ -8,8 +8,8 @@ If you need to implement **Iubenda** you will need to:
 - Setup all the triggers, variables and tags accordingly in GTM and publish it
 
 # Additional settings
-More settings are available at the following URL: 
-(EN) https://www.iubenda.com/en/help/629-google-tag-manager-blocco-cookie
+More settings are available at the following URL: <br>
+(EN) https://www.iubenda.com/en/help/629-google-tag-manager-blocco-cookie<br>
 (IT) https://www.iubenda.com/it/help/629-google-tag-manager-blocco-cookie
 
 *More informations are avaiable in the Wiki*
